@@ -1,4 +1,4 @@
-# UFES - Projeto Final de Ciência de Dados - 2021
+# UFES - Projeto Final de Ciência de Dados
 
 ## Objetivo
 
@@ -13,8 +13,11 @@ O objetivo do projeto é coletar os dados das ações brasileiras que estão lis
 ## Fonte de dados
 
 A fonte de dados é o https://statusinvest.com.br/
-Utilizarei um arquivo de texto com a lista de todas ações do ibovespa para acessá-los um a um e coletar as informações necessárias.
+
+Utilizarei um arquivo de texto com a lista de todas ações do ibovespa para acessá-los um a um e coletar as informações necessárias. 
+
 Exemplo de uma url da ação específica https://statusinvest.com.br/acoes/vale3
+
 Lista de dados a serem coletados:
 - Valor atual, mín. 52 semanas, máx. 52 semanas, dividend yield, valorização(12m)
 - Tipo, tag along, liquidez média diária
