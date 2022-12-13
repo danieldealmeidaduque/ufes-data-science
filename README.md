@@ -1,9 +1,24 @@
 # UFES - Projeto Final de Ciência de Dados 
 
-## Introdução
+## Objetivo
 
-A partir das ferramentas de obtenção de dados _web_ (_urllib_ e _BeautifulSoup_), processamento de dados (_pandas_, _scipy_, _etc.._), visualização de dados (_matplotlib_ e _seaborn_), classificação (_sklearn_, _DecisionTreeClassifier_) aprendidas nas aulas de introdução à Ciência de Dados e pesquisas por conta própria, foram realizadas análises e classificações das ações da Bolsa de Valores Brasileira (Ibovespa) com base em seus indicadores financeiros.
+O objetivo do projeto é coletar os dados das ações brasileiras que estão listadas na Ibovespa (bolsa de valores brasileira) e conseguir analisar os dados obtidos para obter insights sobre as melhores ações a serem compradas no momento em que o programa rodar.
 
-## Definição do problema
+## Ferramentas
 
-O problema consiste em analisar e classificar as ações listadas na Ibovespa com base em seus indicadores financeiros (conjunto de dados detalhado na seção 3). A análise foi feita dividindo as ações de acordo com seus setores e visualizando os indicadores em comparação com as ações "rivais". Com isso, será possível obter _insights_ para classificá-las. classificação foi feita comparando os indicadores financeiros das ações para cada setor e definindo se a ação vale a pena ser comprada ou não conforme o preço atual dela, além de analisar graficamente para que a comparação seja feita mais facilmente.
+1. Obtenção dos dados: Utilizarei urllib e BeautifulSoup para obter os dados usando webscrapping;
+2. Processamento dos dados: Utilizarei o dataframe do pandas para guardar todas informações obtidas no webscrapping de forma padronizada e limpa;
+3. Análises: Analisarei os dados fazendo gráficos com matplotlib e seaborn. Tentarei fazer agrupamentos das ações conforme fatores que são positivos na hora de comprar uma ação e utilizarei conceitos das aulas passadas para tentar fazer os agrupamentos e análises mais complexas.
+
+## Fonte de dados
+
+A fonte de dados é o https://statusinvest.com.br/
+Utilizarei um arquivo de texto com a lista de todas ações do ibovespa para acessá-los um a um e coletar as informações necessárias.
+Exemplo de uma url da ação específica https://statusinvest.com.br/acoes/vale3
+Lista de dados a serem coletados:
+- Valor atual, mín. 52 semanas, máx. 52 semanas, dividend yield, valorização(12m)
+- Tipo, tag along, liquidez média diária
+- Indicadores de valuation, endividamento, eficiência, rentabilidade e crescimento
+- Patrimônio líquido, ativos, ativo circulante, dívida bruta, disponibilidade, dívida líquida,
+- valor de mercado, valor de firma, nº total de papeis, segmento de listagem, free float
+- Setor de atuação, subsetor de atuação, segmento de atuação
