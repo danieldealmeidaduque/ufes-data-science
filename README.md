@@ -1,17 +1,15 @@
-<a name="readme-top"></a>
-
 <h3 align="center"> Analysis of fundamentalist financial data from brazilian stocks </h3>
 
   <p align="center">
     Work for Data Science classes from Federal University of Espirito Santo (UFES)
     <br />
-    <a href=(https://github.com/danieldealmeidaduque/ufes-datascience-webscraping)><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/danieldealmeidaduque/ufes-datascience-webscraping"<strong>Explore the docs »</strong></a>
     <br />
-    Started in 01/2022
+    01/22 - 03/22
     <br />
-    <a href=[repository-url]>Report Bug</a>
+    <a href="https://github.com/danieldealmeidaduque/ufes-datascience-webscraping">Report Bug</a>
     ·
-    <a href=[repository-url]>Request Feature</a>
+    <a href="https://github.com/danieldealmeidaduque/ufes-datascience-webscraping">Request Feature</a>
   </p>
 </div>
 
@@ -37,7 +35,5 @@
 </div>
 
 <!-- MARKDOWN LINKS & IMAGES -->
-<!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/danieldealmeidaduque/
-[repository-url]: https://github.com/danieldealmeidaduque/ufes-datascience-webscraping
