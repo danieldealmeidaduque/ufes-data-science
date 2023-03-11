@@ -28,7 +28,7 @@
 <h3 align="center"> Analysis of fundamentalist financial data from brazilian stocks </h3>
 
   <p align="center">
-    Work for Data Science classes from Federal University of Espirito Santo
+    Work for Data Science classes from Federal University of Espirito Santo (UFES)
     <br />
     <a href="https://github.com/danieldealmeidaduque/ufes-data-science"><strong>Explore the docs »</strong></a>
     <br />
