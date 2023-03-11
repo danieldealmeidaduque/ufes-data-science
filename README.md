@@ -30,11 +30,11 @@
   <p align="center">
     Work for Data Science classes from Federal University of Espirito Santo
     <br />
+    Project started in 01/2022
+    <br />
     <a href="https://github.com/danieldealmeidaduque/ufes-data-science"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/danieldealmeidaduque/ufes-data-science">View Demo</a>
-    ·
     <a href="https://github.com/danieldealmeidaduque/ufes-data-science/issues">Report Bug</a>
     ·
     <a href="https://github.com/danieldealmeidaduque/ufes-data-science/issues">Request Feature</a>
