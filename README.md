@@ -5,13 +5,13 @@
   <p align="center">
     Work for Data Science classes from Federal University of Espirito Santo (UFES)
     <br />
-    <a href="https://github.com/danieldealmeidaduque/ufes-data-science"><strong>Explore the docs »</strong></a>
+    <a href=[repository-url]><strong>Explore the docs »</strong></a>
     <br />
     Started in 01/2022
     <br />
-    <a href="https://github.com/danieldealmeidaduque/ufes-data-science/issues">Report Bug</a>
+    <a href=[repository-url]>Report Bug</a>
     ·
-    <a href="https://github.com/danieldealmeidaduque/ufes-data-science/issues">Request Feature</a>
+    <a href=[repository-url]>Request Feature</a>
   </p>
 </div>
 
@@ -40,3 +40,4 @@
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/danieldealmeidaduque/
+[repository-url]: https://github.com/danieldealmeidaduque/ufes-datascience-webscraping
