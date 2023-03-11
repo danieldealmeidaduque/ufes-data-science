@@ -5,7 +5,7 @@
   <p align="center">
     Work for Data Science classes from Federal University of Espirito Santo (UFES)
     <br />
-    <a href=[repository-url]><strong>Explore the docs »</strong></a>
+    <a href=(https://github.com/danieldealmeidaduque/ufes-datascience-webscraping)><strong>Explore the docs »</strong></a>
     <br />
     Started in 01/2022
     <br />
