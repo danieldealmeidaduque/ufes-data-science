@@ -17,13 +17,16 @@
 ## About The Project
 
 <p align="justify">
-    Using the data acquisition web tools (urllib and BeautifulSoup), data processing tools (pandas, scipy, etc.), data visualization tools (matplotlib and seaborn), and classification tools (sklearn, DecisionTreeClassifier) learned in the Introduction to Data Science classes and self-research, analyses and classifications of the Brazilian stock exchange (Ibovespa) actions were performed based on their financial indicators.    
+   For this project, I used a range of tools and techniques from the Introduction to Data Science classes and self-research to analyze and classify stocks on the Brazilian stock exchange (Ibovespa). This involved data acquisition using web tools such as urllib and BeautifulSoup, data processing with pandas and scipy, data visualization with matplotlib and seaborn, and classification using sklearn and DecisionTreeClassifier.
 </p>
 
 <p align="justify">
-    The problem consists of analyzing and classifying the stocks listed on Ibovespa based on their financial indicators. The analysis will be performed by dividing the stocks according to their sectors and visualizing the indicators in comparison with "rival" stocks. This will enable us to obtain insights for their classification. The classification will be done by comparing the financial indicators of the stocks for each sector and determining whether the stock is worth buying or not based on its current price, as well as analyzing graphically to make the comparison easier.
+    My goal was to analyze and classify stocks based on their financial indicators. I divided the stocks by sector and compared the indicators with those of rival stocks to gain insights and make more informed investment decisions. I also used graphical analysis to make the comparison easier.
 </p>
 
+<p align="justify">
+Overall, this project helped me gain a better understanding of the Brazilian stock exchange and develop practical data science skills. By using a range of tools and techniques, I was able to perform in-depth analysis of stocks based on their financial indicators.
+</p>
 
 <!-- CONTACT -->
 ## Contact
